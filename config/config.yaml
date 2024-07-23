@@ -1,0 +1,7 @@
+network:
+  host: "localhost"
+  port: "8080"
+
+log:
+  level:  "debug"
+  is_json: false
